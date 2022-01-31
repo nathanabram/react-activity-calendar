@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "date-fns": "^2.26.0",
+    "storybook": "^6.4.17",
     "tinycolor2": "^1.4.0"
   },
   "devDependencies": {
